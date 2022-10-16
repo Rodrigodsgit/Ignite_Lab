@@ -8,9 +8,9 @@ export default{
     args: {
         children: (
             <>
-                {/* <TextInput.Icon>
+                <TextInput.Icon>
                     <Envelope />
-                </TextInput.Icon> */}
+                </TextInput.Icon>
                 <TextInput.Input placeholder="Type your e-mail address"/>
             </>
         ),
